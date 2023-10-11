@@ -1,9 +1,10 @@
 ---
 # SEO
-title: CSS Box Model 盒模型
-description: CSS Box Model 盒模型
+title: Box Model 盒模型
+description: Box Model 盒模型
 # image: 在社交媒体卡片中显示的缩略图
 keywords: [CSS, box model, 盒模型]
+sidebar_position: 1
 ---
 
 # 認識盒模型
