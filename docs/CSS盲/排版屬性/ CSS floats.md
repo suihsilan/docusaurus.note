@@ -75,6 +75,10 @@ h1 不再屬於 header container 中的子元素了，就是不受管理，
 這樣就完成啦！
 現在要非常感謝有了 flex 和 grid 強大的排版屬性可以使用，但總是會遇到穿梭時光的專案，現在至少遇到 float 就不太會害怕了！
 
+## 以 Yahoo 為例：
+
+[Yahoo 新聞：float 程式碼實作](https://codepen.io/suihsilan/pen/VwqoGGQ?editors=1100)
+
 ## float 和 position: absolute;有什麼不同？
 
 兩者都是會脫離原來的排版流，但是 absolute 是一個特立獨行的狀態，他的自由是不影響其他元素，但 float 就是看似自由，但是他的影響是周遭元素會圍繞它而浮動。
