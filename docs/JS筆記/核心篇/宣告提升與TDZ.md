@@ -4,6 +4,7 @@ title: 宣告提升與TDZ暫時性死區
 description: 宣告提升與TDZ暫時性死區
 # image: 在社交媒体卡片中显示的缩略图
 keywords: [宣告提升, hoisting, TDZ, 暫時性死區]
+sidebar_position: 2
 ---
 
 # 宣告提升與 TDZ
